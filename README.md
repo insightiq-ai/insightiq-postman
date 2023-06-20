@@ -13,7 +13,7 @@ Follow these steps to quickly get started with the [InsightIQ API](https://docs.
 3. Install the InsightIQ Postman Collection. Click the "Run in Postman" button below to install the InsightIQ collection!
   
 
-    [![Run in Postman](https://run.pstmn.io/button.svg)](#)
+    [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/28093443-d15d17c5-a0cf-4a01-aab7-1c37402c26ba?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28093443-d15d17c5-a0cf-4a01-aab7-1c37402c26ba%26entityType%3Dcollection%26workspaceId%3D508db901-56ec-48cf-80fb-c159515abdde)
 
 4. Once both the collection and the environment variables are imported into Postman, see the [Configuration](https://github.com/insightiq-ai/insightiq-postman#configuration) section on how to correctly configure API keys with the collection.
 
